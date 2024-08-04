@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the code and documentation for my Data Science Capstone projects:
+This repository contains the notebooks for my Data Science Capstone projects:
 
 1. **Capstone 1: Impact of Humidity on Electricity Consumption**
    - This project explores the relationship between humidity levels and electricity consumption, utilizing statistical analysis and visualization to understand the potential impact of humidity on power usage.
